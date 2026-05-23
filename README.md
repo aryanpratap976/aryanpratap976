@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm Aryan Pratap  
-### 📊 Aspiring Data Analyst | Associate Data Consultant | BCA Student (2023 – 2026)
+### 📊 Aspiring Data Analyst | BCA Student (2023 – 2026)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights...;Building+Projects+with+Python+%26+SQL;Power+BI+%7C+PostgreSQL+%7C+Data+Analytics;Open+to+Internships+and+Opportunities" />
 
