@@ -11,7 +11,7 @@ div align="center">
 
 # 🚀 About Me
 
-🎓 BCA Student graduating in **2026**  
+🎓 BCA Student  
 📈 Passionate about **Data Analytics, Business Intelligence & Visualization**  
 🧠 Currently improving skills in **SQL, Power BI, Python & PostgreSQL**  
 💼 Seeking opportunities as a **Fresher Data Analyst / Associate Data Consultant**  
