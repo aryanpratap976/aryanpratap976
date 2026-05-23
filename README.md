@@ -1,4 +1,4 @@
-div align="center">
+
 
 # 👋 Hi, I'm Aryan Pratap  
 ### 📊 Aspiring Data Analyst | Associate Data Consultant | BCA Student (2023 – 2026)
