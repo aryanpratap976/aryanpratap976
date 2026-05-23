@@ -12,7 +12,7 @@
 # 🚀 About Me
 
 🎓 BCA Student  
-📈 Passionate about **Data Analytics, Business Intelligence & Visualization**  
+📊 Aspiring Data Analyst specializing in data modeling and visualization 
 🧠 Currently improving skills in **SQL, Power BI, Python & PostgreSQL**  
 💼 Seeking opportunities as a **Fresher Data Analyst / Associate Data Consultant**  
 ⚡ Love transforming raw datasets into meaningful business insights  
@@ -116,7 +116,7 @@ To become a skilled **Data Analyst / Associate Data Consultant** who can solve r
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:aryanpratap976.com">
+<a href="mailto:aryanpratap976@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
