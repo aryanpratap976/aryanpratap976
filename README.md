@@ -12,7 +12,7 @@
 # 🚀 About Me
 
 🎓 BCA Student  
-📊 Aspiring Data Analyst specializing in data modeling and visualization 
+📊 Aspiring Data Analyst specializing in data modeling and visualization                                                                                            
 🧠 Currently improving skills in **SQL, Power BI, Python & PostgreSQL**  
 💼 Seeking opportunities as a **Fresher Data Analyst / Associate Data Consultant**  
 ⚡ Love transforming raw datasets into meaningful business insights  
